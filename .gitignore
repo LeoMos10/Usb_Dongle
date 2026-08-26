@@ -1,0 +1,7 @@
+# File locali e temporanei di KiCad
+.history/
+*.kicad_prl
+~*.lck
+
+# Istruzioni locali per il push
+push.txt
